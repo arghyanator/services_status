@@ -1,5 +1,5 @@
 # services_status_dashboard
-Monitor Status of AWS resource and present on a dashboard
+Monitor Status of AWS resource and present on a dashboard<br>
 **Python Flask app running on AWS micro instance**
 ## Flask App Logrotate 
 Software or python script is installed under /flask-app
