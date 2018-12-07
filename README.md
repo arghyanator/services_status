@@ -34,3 +34,5 @@ Script uses AWS User credentials with read-only privileges on EC2 in AWS account
 The instance is configured and software is installed using Chef automation in 'local-mode'.
 
 ## Lambda function to send alert emails when ASG capacity is coming up to max set
+```awsasg_status_alerts_email.py
+```
