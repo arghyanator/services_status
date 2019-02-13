@@ -1,4 +1,4 @@
-# services_status_dashboard
+# services_status_emails
 Monitor Status of AWS resource and present on a dashboard<br>
 **Python Flask app running on AWS micro instance**
 ## Flask App Logrotate 
